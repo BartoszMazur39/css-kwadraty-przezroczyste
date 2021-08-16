@@ -1,0 +1,20 @@
+*{
+    background-color: #f5f5dd;
+}
+#kwadrat1, #kwadrat2, #kwadrat3, #kwadrat4{
+    height: 150px;  
+    width: 150px;
+    margin: 15px;
+}
+#kwadrat1{
+    background-color: rgba(0, 0, 0, 1);
+}
+#kwadrat2{
+    background-color: rgba(0, 0, 0, 0.75);
+}
+#kwadrat3{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#kwadrat4{
+    background-color: rgba(0, 0, 0, 0.25);
+}
